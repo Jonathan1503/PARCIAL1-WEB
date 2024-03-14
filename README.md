@@ -1,1 +1,3 @@
 # PARCIAL1-WEB
+Jonathan Rivera
+202022864

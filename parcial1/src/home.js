@@ -108,14 +108,14 @@ function Home() {
          <Row>
 
          <Row>
-            <Col>img1</Col>
-            <Col>img2</Col>
-            <Col>img3</Col>
-            <Col>img4</Col>
+            <Col>{img1}</Col>
+            <Col>{img2}</Col>
+            <Col>{img3}</Col>
+            <Col>{img4}</Col>
         </Row>
         <Row>
-        <Col>img5</Col>
-            <Col>img6</Col>
+        <Col>{img5}</Col>
+            <Col>{img6}</Col>
             <Col>img7</Col>
             <Col>img8</Col>
          </Row>

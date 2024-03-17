@@ -1,0 +1,9 @@
+{
+    "usernameLabel": "Usuario",
+    "nombreLabel": "Nombre",
+    "descripcionLabel": "Descripcion",
+    "urlLabel": "Url",
+    "guardarCambiosBtn": "Guardar Cambios",
+    "seguidores": "Seguidores",
+    "seguidos": "Seguidos"
+}
